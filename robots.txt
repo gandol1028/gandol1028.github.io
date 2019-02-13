@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gandol1028.github.io/sitemap.xml
