@@ -3,30 +3,42 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>For You</title>
+    <title>사건사고</title>
     <link>http://gandol1028.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>블로그설명@@@@@@@</description>
-    <pubDate>Tue, 12 Feb 2019 07:56:43 GMT</pubDate>
+    <description>It&#39;s a blog that deals with incidents all over the world.</description>
+    <pubDate>Wed, 13 Feb 2019 05:40:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
+      <title>190213_test</title>
+      <link>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EB%82%B4%EB%B6%80%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/190213-test/</link>
+      <guid>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EB%82%B4%EB%B6%80%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/190213-test/</guid>
+      <pubDate>Wed, 13 Feb 2019 05:40:15 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EB%82%B4%EB%B6%80%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC/190213-test/#disqus_thread</comments>
+    </item>
+    
+    <item>
       <title>first post</title>
-      <link>http://gandol1028.github.io/02/first-post/</link>
-      <guid>http://gandol1028.github.io/02/first-post/</guid>
+      <link>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EA%B4%80%EB%A0%A8/first-post/</link>
+      <guid>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EA%B4%80%EB%A0%A8/first-post/</guid>
       <pubDate>Tue, 12 Feb 2019 07:56:43 GMT</pubDate>
       <description>
       
       </description>
       
-      <comments>http://gandol1028.github.io/02/first-post/#disqus_thread</comments>
+      <comments>http://gandol1028.github.io/%ED%97%A5%EC%86%8C%EA%B4%80%EB%A0%A8/first-post/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://gandol1028.github.io/02/hello-world/</link>
-      <guid>http://gandol1028.github.io/02/hello-world/</guid>
+      <link>http://gandol1028.github.io/uncategorized/hello-world/</link>
+      <guid>http://gandol1028.github.io/uncategorized/hello-world/</guid>
       <pubDate>Tue, 12 Feb 2019 07:55:25 GMT</pubDate>
       <description>
       
@@ -39,7 +51,7 @@
       
       <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content:encoded>
       
-      <comments>http://gandol1028.github.io/02/hello-world/#disqus_thread</comments>
+      <comments>http://gandol1028.github.io/uncategorized/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
