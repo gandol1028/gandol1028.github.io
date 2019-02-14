@@ -4,7 +4,7 @@
 
     <sitemap>
         <loc>http://gandol1028.github.io/post-sitemap.xml</loc>
-        <lastmod>2019-02-14T10:38:24.179Z</lastmod>
+        <lastmod>2019-02-14T10:42:35.098Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -15,11 +15,6 @@
     <sitemap>
         <loc>http://gandol1028.github.io/category-sitemap.xml</loc>
         <lastmod>2019-02-14T10:07:38.380Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://gandol1028.github.io/tag-sitemap.xml</loc>
-        
     </sitemap>
 
 </sitemapindex>
