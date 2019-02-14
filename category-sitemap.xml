@@ -8,13 +8,6 @@
     </url>
 
     <url>
-        <loc>http://gandol1028.github.io/categories/celebrity/</loc>
-        <lastmod>2019-02-14T06:20:14.988Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://gandol1028.github.io/categories/BLACKPINK/</loc>
         <lastmod>2019-02-14T10:07:38.380Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,6 +17,13 @@
     <url>
         <loc>http://gandol1028.github.io/categories/BTS/</loc>
         <lastmod>2019-02-14T10:31:22.078Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://gandol1028.github.io/categories/celebrity/</loc>
+        <lastmod>2019-02-14T10:38:24.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
